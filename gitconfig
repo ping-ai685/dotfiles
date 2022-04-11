@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leip330@gmail.com
+	name = ping lei
